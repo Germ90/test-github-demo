@@ -1,3 +1,4 @@
-const assert = "¡Hola mundo!";
+const saludo = "¡Hola mundo! ;)";
 
-console.log(a); 
+console.log(saludo); 
+
